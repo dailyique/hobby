@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "escapeFireApp", "escapeFireApp\escapeFireApp.csproj", "{DF5D45E6-61A9-4146-9989-57C75EC6C157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5D45E6-61A9-4146-9989-57C75EC6C157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5D45E6-61A9-4146-9989-57C75EC6C157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5D45E6-61A9-4146-9989-57C75EC6C157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5D45E6-61A9-4146-9989-57C75EC6C157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
